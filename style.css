@@ -81,8 +81,8 @@ p {
     padding: 10px;
 }
 
-@media (max-width:375px) {
-    .container {
+@media (max-width:386px){
+    .container{
         width: 300px;
     }
 }
