@@ -75,8 +75,14 @@ p {
     margin-left: 10px;
 }
 
-.attribution{
-margin-top: 60px;
-margin-left: 730px;
-padding: 10px;
+.attribution {
+    margin-top: 60px;
+    margin-left: 730px;
+    padding: 10px;
+}
+
+@media (max-width:375px) {
+    .container {
+        width: 300px;
+    }
 }
